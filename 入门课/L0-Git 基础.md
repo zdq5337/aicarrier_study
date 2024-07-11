@@ -41,7 +41,7 @@
 - 职业：IT工程师
 - 兴趣爱好：心里只有工作
 - 坐标：北京
-- 作业PR链接：https://github.com/InternLM/Tutorial/pull/837
+- 作业PR链接：https://github.com/InternLM/Tutorial/pull/852
 - 项目技能：编码有点基础，十多年的工程开发经验
 - 组队情况：无
 - 本课程学习基础：代码基本看懂，ML无基础
