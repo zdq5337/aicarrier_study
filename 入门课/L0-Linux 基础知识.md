@@ -22,8 +22,9 @@
 ## 学习conda设置及环境管理，并安装conda虚拟环境
 ![alt text](img/image-2.png)
 
-
-
+## 常用Linux命令备忘
+    # 查看指定目录及其子目录的大小。 这里--max-depth=1选项限制输出只显示一级子目录的大小。
+    du -h --max-depth=1 /root
 
 
 

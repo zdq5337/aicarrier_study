@@ -25,7 +25,7 @@
      pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple             
 2. 创建一个python练习专属的conda虚拟环境
     ```shell
-    conda create -n python-tutorial python=3.10 
+    con
     conda activate python-tutorial  
     pip install jupyter lab 
     pip install numpy
