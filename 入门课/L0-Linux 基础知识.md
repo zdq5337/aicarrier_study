@@ -17,6 +17,7 @@
 ### 2、备份到个人飞书文档备后续使用：https://gcng8154fkm3.feishu.cn/docx/QY1DdkV8foxKLLxE7z6cc2AJnDf
 
 ### 3、安装并使用tmux
+更多tmux控制台命令参考：https://aik9.top/
 ![alt text](img/image-1.png)
 
 ## 学习conda设置及环境管理，并安装conda虚拟环境
