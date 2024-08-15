@@ -36,6 +36,7 @@ conda remove --name your_env_name --all
 ## 开发机常用命令
 1. 快速从本地上传文件
 scp -o StrictHostKeyChecking=no -r -P {端口} {本地目录} root@ssh.intern-ai.org.cn:{开发机目录}
+scp -o StrictHostKeyChecking=no -r -P 48466 C:\Users\zhangdeqiang\Downloads\大模型\产品解析\人保寿险人保福终身寿险\人保寿险人保福终身寿险.PDF root@ssh.intern-ai.org.cn:/root/dev/data
 2. 卸载（删除）一个 conda 虚拟环境
 conda remove --name your_env_name --all
 
