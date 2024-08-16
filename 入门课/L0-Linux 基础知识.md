@@ -39,4 +39,8 @@ scp -o StrictHostKeyChecking=no -r -P {端口} {本地目录} root@ssh.intern-ai
 scp -o StrictHostKeyChecking=no -r -P 48466 C:\Users\zhangdeqiang\Downloads\大模型\产品解析\人保寿险人保福终身寿险\人保寿险人保福终身寿险.PDF root@ssh.intern-ai.org.cn:/root/dev/data
 2. 卸载（删除）一个 conda 虚拟环境
 conda remove --name your_env_name --all
+conda clean --all # 清理conda缓存
 
+3. 查看显存占用情况  
+- nvidia-smi  
+- studio-smi 
